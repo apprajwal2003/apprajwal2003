@@ -31,19 +31,6 @@ Outside of coding, I believe in clean design, clear communication, and collabora
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📞 LetsCall — WebRTC Video Call App  
-Real-time video calling app with chat, screen sharing, and media toggle. Built with **React**, **WebRTC**, and **Socket.io**.
-
-#### 🔧 CodeHub — GitHub Clone  
-Sleek GitHub clone with repo browsing, contributions heatmap, and modern UI. Built with **React**, **Tailwind CSS**, and **public APIs**.
-
-#### 🧠 Exam Hack — AI-Powered Study Assistant  
-A smart study assistant designed to help students prepare for exams. Includes features like question generation, summarization, and focused prep. Built using **React**, **OpenAI API**, and **Tailwind CSS**.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
