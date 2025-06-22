@@ -59,8 +59,6 @@ A smart study assistant designed to help students prepare for exams. Includes fe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apprajwal03/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/apprajwal/)
 
-📫 Email: [apprajwal2003@gmail.com](mailto:apprajwal2003@gmail.com)
+📫 Email: [apprajwalwork@gmail.com](mailto:apprajwalwork@gmail.com)
 
 ---
-
-_“Striving for clean code, scalable systems, and creative innovation — one line at a time.”_
