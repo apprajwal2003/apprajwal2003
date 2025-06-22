@@ -56,7 +56,7 @@ A smart study assistant designed to help students prepare for exams. Includes fe
 ### 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-a-p-prajwal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-p-prajwal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apprajwal03/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/apprajwal/)
 
 📫 Email: [apprajwal2003@gmail.com](mailto:apprajwal2003@gmail.com)
